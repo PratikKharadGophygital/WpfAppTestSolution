@@ -22,7 +22,7 @@ namespace WpfAppTest
         {
             InitializeComponent();  // Ensure this is present
 
-            string connectionString = "Connection string";
+            string connectionString = "Data Source=10.100.0.8;Initial Catalog=WebStoreApp;User ID=sa;Password=sa123;Connection Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
             _userRepository = new UserRepository(connectionString);
 
             // Load system information
