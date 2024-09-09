@@ -47,9 +47,9 @@ This project is a WPF application built with .NET Core 6 that displays system in
 
 ## Screenshots
 
-![System Information](./screenshots/system_info.png)
+![System Information](./screenshots/pageone.png)
 *Display of system information*
 
-![User DataGrid](./screenshots/user_datagrid.png)
+![User DataGrid](./screenshots/pagetwo.png)
 *User DataGrid displaying the list of users*
 
