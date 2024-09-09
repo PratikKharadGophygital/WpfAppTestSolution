@@ -8,8 +8,7 @@ This project is a WPF application built with .NET Core 6 that displays system in
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Screenshots](#screenshots)
-6. [Contributing](#contributing)
-7. [License](#license)
+
 
 ## Features 
 - Displays system information: machine name, username, and OS version.
