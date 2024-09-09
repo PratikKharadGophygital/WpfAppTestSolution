@@ -11,7 +11,7 @@ This project is a WPF application built with .NET Core 6 that displays system in
 6. [Contributing](#contributing)
 7. [License](#license)
 
-## Features
+## Features 
 - Displays system information: machine name, username, and OS version.
 - Allows users to add new users with first name, last name, and phone number.
 - Shows a list of users in a DataGrid.
@@ -25,25 +25,12 @@ This project is a WPF application built with .NET Core 6 that displays system in
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/yourrepository.git
+    https://github.com/PratikKharadGophygital/WpfAppTestSolution.git
     ```
 
 2. Navigate to the project directory:
     ```bash
     cd WpfAppTest
-    ```
-
-3. Restore the dependencies:
-    ```bash
-    dotnet restore
-    ```
-
-4. Update the `appsettings.json` file with your SQL Server connection string.
-
-5. Build and run the application:
-    ```bash
-    dotnet build
-    dotnet run
     ```
 
 ## Usage
@@ -66,17 +53,3 @@ This project is a WPF application built with .NET Core 6 that displays system in
 ![User DataGrid](./screenshots/user_datagrid.png)
 *User DataGrid displaying the list of users*
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Make your changes and commit them.
-4. Push your branch to GitHub.
-5. Open a pull request and describe your changes.
-
-For more details, please refer to the [CONTRIBUTING.md](./CONTRIBUTING.md) file.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
